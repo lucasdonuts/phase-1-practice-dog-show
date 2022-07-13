@@ -2,7 +2,7 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Baby",
+      "name": "Corn",
       "breed": "Scottish Deerhound",
       "sex": "male"
     },
@@ -21,12 +21,12 @@
     {
       "id": 4,
       "name": "Harvey",
-      "breed": "Irish Spaniel",
+      "breed": "Cocker Spaniel",
       "sex": "male"
     },
     {
       "id": 5,
-      "name": "Gracie",
+      "name": "Lady",
       "breed": "Miniature Pinscher",
       "sex": "female"
     },
